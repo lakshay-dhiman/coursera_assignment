@@ -1,0 +1,59 @@
+#header-nav{
+    border-radius: 0px;
+    background: rgb(133, 133, 133);
+    
+} 
+
+#collapsable-nav{
+    background: rgb(80, 79, 79);
+    border: solid 1px black;
+    margin: 0px;
+    width: 100vw;
+
+}
+
+#nav-list{
+    margin: 0px;
+}
+
+#collapsable-nav #nav-list li a{
+    color: white;
+    margin: 10px;
+}
+hr{
+    margin: 0px;
+}
+#item{
+    background: rgb(179, 179, 179);
+    color: black;
+    min-height: 1000px;
+    margin: 10px;
+    margin-left: 0px;
+
+}
+
+#item p{
+    padding: 20px;
+}
+
+#item h3{
+    padding-top: 20px;
+}
+#main-content{
+    margin: auto;
+
+}
+
+#brand-name .navbar-brand{
+    color: black;
+    margin: 10px;
+}
+
+#navigation{
+    padding: 0px;
+}
+
+#collapse-btn{
+    background:rgb(80, 79, 79);
+    margin-top: 15px;
+}
